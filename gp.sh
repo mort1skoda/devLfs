@@ -1,6 +1,5 @@
 #!/bin/bash
 
-git remote -v
 git status
 git add --all
 git status
